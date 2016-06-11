@@ -15,7 +15,8 @@ categories: jekyll update
 
 	'/etc/init.d/vboxdrv setup'
 
-	as root. Users of Ubuntu, Fedora or Mandriva should install the DKMS package first. This package keeps track of Linux kernel changes and recompiles the vboxdrv kernel module if necessary.
+	as root. Users of Ubuntu, Fedora or Mandriva should install the DKMS package first.
+	This package keeps track of Linux kernel changes and recompiles the vboxdrv kernel module if necessary.
 
 ### 解决方法-1(自己机器)
 
