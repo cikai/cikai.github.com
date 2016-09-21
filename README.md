@@ -1,5 +1,5 @@
 ### 博客
-站点：[http://cikai.me](http://cikai.me)
+站点：[http://blog.loozhi.cn](http://blog.loozhi.cn)
 
 ### Blog
-Site：[http://cikai.me](http://cikai.me)
+Site：[http://blog.loozhi.cn](http://blog.loozhi.cn)
